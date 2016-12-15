@@ -10,7 +10,7 @@ If you have admin access to your machine, you can follow this guide to install t
 
 If you do not have admin access, ask your computer administrator to install:
 * Node.js 6.x.x
-* Sublime Text 3
+* [Atom](https://atom.io) text editor
 * Command line tools (Mac)
 * Git bash (Windows)
 
@@ -83,9 +83,9 @@ node --version
 
 If it’s installed correctly it should show a number starting with 6.
 
-## Sublime Text
+## Atom Text Editor
 
-You’ll need a text editor to edit and make changes to your prototype. We recommend [Sublime Text](http://www.sublimetext.com/) - instructions later on will refer to Sublime Text.
+You’ll need a text editor to edit and make changes to your prototype. We recommend the free [Atom](https://atom.io) editor - instructions later on will refer to Atom.
 
 ## Command line tools (mac)
 
